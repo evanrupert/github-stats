@@ -11,7 +11,8 @@ svg {
   height: calc(100% - 10px);
 <!--   fill: white; -->
   fill: #141321;
-  stroke: rgb(225, 228, 232);
+<!--  stroke: rgb(225, 228, 232);-->
+  stroke: #30363d;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -28,9 +29,9 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-<!--   fill: rgb(36, 41, 46); -->
-  fill: white;
+<!--  color: rgb(36, 41, 46);-->
+  color: white;
+  fill: rgb(36, 41, 46);
 }
 
 ul {
